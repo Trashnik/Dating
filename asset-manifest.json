@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dating/static/css/main.5bf3ae96.css",
+    "main.js": "/Dating/static/js/main.5d34dbed.js",
+    "static/media/back.png": "/Dating/static/media/back.b691d172a77620326b93.png",
+    "index.html": "/Dating/index.html",
+    "static/media/left-arrow.svg": "/Dating/static/media/left-arrow.53878c51904c34f1288e46174c107c57.svg",
+    "static/media/right-arrow.svg": "/Dating/static/media/right-arrow.8b8fb639d7ed68731e5b073c0700d3bf.svg",
+    "main.5bf3ae96.css.map": "/Dating/static/css/main.5bf3ae96.css.map",
+    "main.5d34dbed.js.map": "/Dating/static/js/main.5d34dbed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf3ae96.css",
+    "static/js/main.5d34dbed.js"
+  ]
+}
