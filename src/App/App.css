@@ -1,0 +1,29 @@
+* {
+    font-family: 'Bellota Text', cursive;
+    color: rgb(221, 70, 121);
+} 
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas: 
+    "h h h"
+    "m m s"
+    "f f f";
+    background: url(./back.png) no-repeat center/cover;
+    
+    
+}
+
+
+* {
+     background-color: rgb(234, 219, 222); 
+    
+} 
+
+
+.logo {
+    background: no-repeat center/cover;
+
+}
